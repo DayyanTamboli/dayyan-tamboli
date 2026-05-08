@@ -12,7 +12,7 @@
 
 ## 💻 About Me
 
-💻 **Python Full Stack Developer | ECE Student | AI/ML Enthusiast**
+💻 **Python Full Stack Developer | ECE Graduate | AI/ML Enthusiast**
 
 - 🎓 **Education**: B.Tech in Electronics & Computer Engineering (ECE)
 - 🔧 **Expertise**: Python Full Stack Development, AI/ML, Computer Vision, Embedded Systems
@@ -76,46 +76,6 @@
 - 📊 Features: Expense tracking, monthly/yearly reports, family management
 - 🎯 Impact: Helps users manage financial records efficiently
 
----
-
-### 🥈 Cuffless Blood Pressure Measurement using AI
-**AI-powered blood pressure prediction system**
-- ❓ *Problem Solved:* Non-invasive blood pressure monitoring
-- 🔧 Tech: Python, Deep Learning, ECG/PPG Signal Processing
-- 📊 Features: Feature extraction, prediction models, real-time analysis
-- 🎯 Use Case: Healthcare and smart monitoring systems
-
----
-
-### 🥉 Hand Gesture Volume Control System
-**Gesture-based smart volume controller**
-- ❓ *Problem Solved:* Touch-free system interaction
-- 🔧 Tech: Python, OpenCV, MediaPipe
-- 📊 Features: Hand tracking, gesture recognition, volume adjustment
-- 🎯 Impact: Human-computer interaction using computer vision
-
----
-
-## 📊 Other Projects
-
-### 📌 32-bit Vedic Multiplier on FPGA
-- Tech: Verilog, FPGA
-- Features: High-speed multiplication using Vedic algorithms
-- Impact: Improved digital circuit performance
-
----
-
-### 📌 Speech Emotion Recognition System
-- Tech: Python, Deep Learning
-- Features: Audio processing, emotion classification
-- Impact: AI-based human emotion analysis
-
----
-
-### 📌 Talk to Write System
-- Tech: Raspberry Pi, Arduino, Speech Recognition
-- Features: Converts speech into handwritten text
-- Impact: Assistive smart writing solution
 
 ---
 
@@ -123,8 +83,6 @@
 
 - 📌 Built full-stack web applications using **Python & Django**
 - 📌 Developed AI/ML systems using **TensorFlow & Deep Learning**
-- 📌 Applied **OpenCV & MediaPipe** for real-time computer vision
-- 📌 Worked on **FPGA & Verilog** based digital design projects
 - 📌 Created responsive frontends using **HTML, CSS, Bootstrap**
 - 📌 Used **Git & GitHub** for version control and collaboration
 
@@ -159,9 +117,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayyantamboli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayyantamboli03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DayyanTamboli/dayyan-tamboli)
 
 </div>
 
